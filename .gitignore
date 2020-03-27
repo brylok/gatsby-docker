@@ -6,3 +6,7 @@ node_modules/
 
 # Mac files
 .DS_Store
+
+# hide gatsby project lock files
+gatsby-files/package-lock.json
+gatsby-files/yarn.lock

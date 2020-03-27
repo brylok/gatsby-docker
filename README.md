@@ -1,10 +1,9 @@
 # Gatsby Docker
 
-A simple Gatsby starter site wrapper in Docker to make local development easy.
+A simple Gatsby starter site wrapped in Docker to make local development easy.
 
 
 Please Note: You will need [Docker](https://www.docker.com/products/docker-desktop) installed for this to work.
-
 
 
 ## Get started
